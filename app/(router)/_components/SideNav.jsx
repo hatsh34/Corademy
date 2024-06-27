@@ -23,7 +23,7 @@ function SideNav() {
   return (
     <div className="p-5 bg-white shadow-sm border h-screen">
       {" "}
-      <Image src="/logo.svg" alt="logo" width={80} height={80} />
+      <Image src="/cora.jpg" alt="logo" width={100} height={80} />
       <hr className="mt-7"></hr>
       {/* Menu list */}
       <div classNamw="mt-8">
